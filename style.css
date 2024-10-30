@@ -88,7 +88,7 @@ button:hover {
 
 .maps {
     display: flex;
-    width: 450px;
+    width: 98%;
     height: 300px;
     border: 0;
     border-radius: 20px;
