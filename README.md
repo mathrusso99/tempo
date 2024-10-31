@@ -1,4 +1,4 @@
-<h1>Previsão do tempo</h1>
+<h1>Previsão do tempo 🌩️</h1>
 <br>
 <br>
 <p> Projeto simples onde você pode pesquisar a temperatura e ver como esta o tempo, e adicionei um maps para poder explorar melhor. </p>
