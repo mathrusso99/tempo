@@ -14,4 +14,4 @@
 
 
 <h3> :iphone: Mobile</h3>
-<img src = "https://github.com/mathrusso99/jokenpo/blob/main/assets/Captura%20de%20Tela%20(54).png?raw=true">
+<img src = "https://github.com/mathrusso99/tempo/blob/main/Captura%20de%20Tela%20(56).png?raw=true">
